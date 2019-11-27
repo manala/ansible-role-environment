@@ -1,0 +1,6 @@
+---
+
+# Variables
+- import_tasks: variables.yml
+  tags:
+    - manala_environment
